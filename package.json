@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-code",
+  "version": "1.0.0",
+  "description": "Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.",
+  "main": "bin/gendiff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimowich/fullstack-javascript-project-46.git"
+  },
+  "keywords": [
+    "gendiff"
+  ],
+  "author": "Alexander Maksimovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksimowich/fullstack-javascript-project-46/issues"
+  },
+  "homepage": "https://github.com/maksimowich/fullstack-javascript-project-46#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
