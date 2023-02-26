@@ -1,6 +1,7 @@
 {
   "name": "hexlet-code",
   "version": "1.0.0",
+  "type": "module",
   "description": "Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.",
   "main": "bin/gendiff.js",
   "scripts": {
@@ -21,5 +22,11 @@
   "homepage": "https://github.com/maksimowich/fullstack-javascript-project-46#readme",
   "dependencies": {
     "commander": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.3"
   }
 }
